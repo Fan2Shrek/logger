@@ -1,6 +1,6 @@
 <?php
 
-namespace Sruuua\logger\Interface;
+namespace Sruuua\Logger\Interface;
 
 /**
  * Describes a logger-aware instance.

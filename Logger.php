@@ -1,6 +1,6 @@
 <?php
 
-namespace Sruuua\logger;
+namespace Sruuua\Logger;
 
 class Logger extends BaseLogger
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Sruuua\logger;
+namespace Sruuua\Logger;
 
 use Sruuua\Logger\Interface\LoggerInterface;
 
