@@ -2,7 +2,7 @@
 
 namespace Sruuua\Logger;
 
-class LogLevel
+abstract class LogLevel
 {
     const EMERGENCY = 'emergency';
     const ALERT     = 'alert';
