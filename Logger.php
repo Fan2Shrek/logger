@@ -61,7 +61,7 @@ class Logger extends BaseLogger
     {
         $file = $this->getFile();
 
-        $content = "|{$level}| " . $this->interpolate($message, $context);
+        $content = "\n|{$level}| " . $this->interpolate($message, $context);
         fwrite($file, $content);
     }
 }
